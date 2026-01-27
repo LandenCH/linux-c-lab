@@ -1,0 +1,7 @@
+total 16
+drwxrwxrwx+ 2 codespace codespace 4096 Jan 27 21:47 command-line-easy
+-rw-rw-rw-  1 codespace codespace  266 Jan 27 21:49 easy-log.txt
+-rw-rw-rw-  1 codespace codespace  267 Jan 27 21:50 easy-log.txtcat easy-log.txt
+-rw-rw-rw-  1 codespace codespace    0 Jan 27 21:53 files.txt
+-rw-rw-rw-  1 codespace codespace   15 Jan 27 21:43 hello-copy.txt
+-rw-------  1 codespace codespace    0 Jan 27 21:52 secret.txt

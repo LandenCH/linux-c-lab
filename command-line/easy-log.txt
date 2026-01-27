@@ -1,0 +1,24 @@
+pwd
+/workspaces/linux-c-lab/command-line
+
+ls
+command-line-easy
+
+cd command-line-easy
+
+touch hello.txt
+
+nano hello.txt
+Hello, Linux!
+
+cp hello.txt hello-copy.txt
+mv hello-copy.txt ../
+rm hello.txt
+
+cat ../hello-copy.txt
+Hello, Linux!
+
+man ls
+
+echo "Test" > test.txt
+

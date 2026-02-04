@@ -20,3 +20,28 @@ This repository contains my work for the Ubuntu Linux command line, shell script
 - Practiced compiling and debugging C programs.
 - Fixed path and permission issues using chmod and pwd.
 # linux-c-lab
+
+
+---
+
+## Student Submission Info
+
+Name: Landen Harley
+
+### Completed Challenges
+- Challenge 1
+- Challenge 2
+- Challenge 3
+- Challenge 4
+- Challenge 5
+- Challenge 6
+- Challenge 7
+- Challenge 8
+- Challenge 9
+- Challenge 10
+
+### Build
+Project built using CMake in GitHub Codespaces.
+
+### Notes
+Zombie processes could not be observed due to automatic cleanup in the Codespaces environment.
